@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\ucemployee\ucemployee\bin\Debug\net6.0\ucemployee.exe
+C:\Users\DELL\source\repos\ucemployee\ucemployee\bin\Debug\net6.0\ucemployee.deps.json
+C:\Users\DELL\source\repos\ucemployee\ucemployee\bin\Debug\net6.0\ucemployee.runtimeconfig.json
+C:\Users\DELL\source\repos\ucemployee\ucemployee\bin\Debug\net6.0\ucemployee.dll
+C:\Users\DELL\source\repos\ucemployee\ucemployee\bin\Debug\net6.0\ucemployee.pdb
+C:\Users\DELL\source\repos\ucemployee\ucemployee\obj\Debug\net6.0\ucemployee.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\ucemployee\ucemployee\obj\Debug\net6.0\ucemployee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\ucemployee\ucemployee\obj\Debug\net6.0\ucemployee.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\ucemployee\ucemployee\obj\Debug\net6.0\ucemployee.AssemblyInfo.cs
+C:\Users\DELL\source\repos\ucemployee\ucemployee\obj\Debug\net6.0\ucemployee.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ucemployee\ucemployee\obj\Debug\net6.0\ucemployee.dll
+C:\Users\DELL\source\repos\ucemployee\ucemployee\obj\Debug\net6.0\refint\ucemployee.dll
+C:\Users\DELL\source\repos\ucemployee\ucemployee\obj\Debug\net6.0\ucemployee.pdb
+C:\Users\DELL\source\repos\ucemployee\ucemployee\obj\Debug\net6.0\ucemployee.genruntimeconfig.cache
+C:\Users\DELL\source\repos\ucemployee\ucemployee\obj\Debug\net6.0\ref\ucemployee.dll
