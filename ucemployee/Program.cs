@@ -12,11 +12,11 @@ namespace uc1empstatus
             int randomcheck = random.Next(2);
             if (randomcheck == 1)
             {
-                Console.WriteLine("the employee is present");
+                Console.WriteLine("the employee  present");
             }
             else
             {
-                Console.WriteLine("the employee is absent");
+                Console.WriteLine("the employee absent");
             }
         }
     }
