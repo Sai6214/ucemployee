@@ -1,23 +1,24 @@
 ﻿using System;
 
-namespace uc1empstatus
+namespace EmployeeWage
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
         {
-            int isPresent;
-            int isAbsent;
-            Random random = new Random();
-            int randomcheck = random.Next(2);
-            if (randomcheck == 1)
-            {
-                Console.WriteLine("the employee  present");
-            }
+            int Is_Present = 1;
+            int Wage_Per_Hr = 20;
+            int Daily_Wage = 0;
+            int WorkingHrs = 0;
+            Random r = new Random();
+            int check = r.Next(0, 2);
+            if (Is_Present == check)
+                WorkingHrs = 8;
             else
-            {
-                Console.WriteLine("the employee absent");
-            }
+                WorkingHrs = 0;
+            Daily_Wage = WorkingHrs + Wage_Per_Hr;
+            Console.WriteLine(Daily_Wage);
+            Console.ReadLine();
         }
     }
 }
